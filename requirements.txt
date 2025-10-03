@@ -4,4 +4,10 @@ openai
 newsapi-python
 python-dotenv
 pytest
+streamlit
+langchain>=0.3
+langchain-community
+langchain-openai
+openai
+
 tenacity
